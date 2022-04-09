@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @weAreJack
 - 👀 I’m interested in Swift and iOS Development
-- 🌱 I’m currently learning SwiftUI, Server-side Swift and GraphQL
+- 🌱 I’m currently learning SwiftUI and Node
 - 💞️ I’m looking to collaborate on modern iOS/Swift projects
 - 📫 How to reach me ... jack.a.smith@live.com
 
